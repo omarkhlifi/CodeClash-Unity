@@ -1,4 +1,4 @@
-# 🎙️🧩 Code Clash
+# 🧩 Code Clash
 
 **Code Clash** is a fast-paced, 1v1 multiplayer puzzle game built in Unity, inspired by classic code-breaking games like *Mastermind*. Players go head-to-head to crack their opponent's 4-digit secret code before time runs out, all while interacting through live voice chat and expressive emojis!
 
